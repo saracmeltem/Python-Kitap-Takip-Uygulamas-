@@ -1,0 +1,131 @@
+[
+    {
+        "baslik": "Çalıkuşu",
+        "yazar": "Reşat Nuri Güntekin",
+        "okundu": true
+    },
+    {
+        "baslik": "İnce Memed",
+        "yazar": "Yaşar Kemal",
+        "okundu": false
+    },
+    {
+        "baslik": "Şeker Portakalı",
+        "yazar": "José Mauro de Vasconcelos",
+        "okundu": true,
+        "puan": 5
+    },
+    {
+        "baslik": "Satranç",
+        "yazar": "Stefan Zweig",
+        "okundu": false
+    },
+    {
+        "baslik": "Beyaz Diş",
+        "yazar": "Jack London",
+        "okundu": true
+    },
+    {
+        "baslik": "Eylül",
+        "yazar": "Mehmet Rauf",
+        "okundu": false,
+        "puan": 0
+    },
+    {
+        "baslik": "Araba Sevdası",
+        "yazar": "Recaizade Mahmud Ekrem",
+        "okundu": false
+    },
+    {
+        "baslik": "Kürk Mantolu Madonna",
+        "yazar": "Sabahattin Ali",
+        "okundu": false
+    },
+    {
+        "baslik": "Savaş ve Barış",
+        "yazar": "Lev Tolstoy",
+        "okundu": true
+    },
+    {
+        "baslik": "Anna Karenina",
+        "yazar": "Lev Tolstoy",
+        "okundu": false
+    },
+    {
+        "baslik": "Kumarbaz",
+        "yazar": "Fyodor Dostoyevski",
+        "okundu": false
+    },
+    {
+        "baslik": "Devlet",
+        "yazar": "Platon",
+        "okundu": false
+    },
+    {
+        "baslik": "Gazi Mustafa Kemal Atatürk,",
+        "yazar": "İlber Ortaylı",
+        "okundu": true
+    },
+    {
+        "baslik": "Beyaz Kale",
+        "yazar": "Beyaz Kale",
+        "okundu": false
+    },
+    {
+        "baslik": "İlahi Komedya",
+        "yazar": "Dante Alighieri",
+        "okundu": false
+    },
+    {
+        "baslik": "Mavi Sürgün",
+        "yazar": "Cevat Şakir Kabaağaçlı",
+        "okundu": true
+    },
+    {
+        "baslik": "Yaşar Ne Yaşar Ne Yaşamaz",
+        "yazar": "Aziz Nesin",
+        "okundu": false
+    },
+    {
+        "baslik": "Aşk",
+        "yazar": "Elif Şafak",
+        "okundu": true
+    },
+    {
+        "baslik": "İstanbul Hatırası",
+        "yazar": "Ahmet Ümit",
+        "okundu": false
+    },
+    {
+        "baslik": "Devlet Ana",
+        "yazar": "Kemal Tahir",
+        "okundu": false
+    },
+    {
+        "baslik": "Yaprak Dökümü",
+        "yazar": "Reşat Nuri Güntekin",
+        "okundu": true,
+        "puan": 3
+    },
+    {
+        "baslik": "Sevda Sözcükleri",
+        "yazar": "Cemal Süreya",
+        "okundu": false
+    },
+    {
+        "baslik": "Üç Beş Kişi",
+        "yazar": "Adalet Ağaoğlu",
+        "okundu": false
+    },
+    {
+        "baslik": "Sodom ve Gomore",
+        "yazar": "Yakup Kadri Karaosmanoğlu",
+        "okundu": true
+    },
+    {
+        "baslik": "Nutuk",
+        "yazar": "Mustafa Kemal Atatürk",
+        "okundu": true,
+        "puan": 5
+    }
+]
